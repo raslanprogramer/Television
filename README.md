@@ -21,10 +21,10 @@ samples, guidance on mobile development, and a full API reference.
 # The result of project
 
 ## Main Screen when you enter to app
-<img src="https://github.com/raslanprogramer/start/blob/main/Screenshot_20240716-193441.jpg" width="300" height="350">
+<img src="https://github.com/raslanprogramer/start/blob/main/Screenshot_20240716-193441.jpg" width="300" height="400">
 
 ## After press any category you will get all chanels in that category
-<img src="https://github.com/raslanprogramer/start/blob/main/Screenshot_20240716-193426.jpg" width="300" height="350">
+<img src="https://github.com/raslanprogramer/start/blob/main/Screenshot_20240716-193426.jpg" width="300" height="400">
 
 ## When you choose a specific chanel you get this screen
-<img src="https://github.com/raslanprogramer/start/blob/main/Screenshot_20240716-191212.jpg" width="300" height="350">
+<img src="https://github.com/raslanprogramer/start/blob/main/Screenshot_20240716-191212.jpg" width="300" height="400">
