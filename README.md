@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # The result of project
-<img src="https://www.faqraa.com/2023/11/wallpaper_01673007261.html">
+<img src="https://github.com/raslanprogramer/start/blob/main/Screenshot_20240716-191212.jpg" width="350" height="400">
